@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Victor Pereira</h1>
+<h1 align="center">**Olá 👋, me chamo Victor Pereira**</h1>
 <h3 align="center">Designer e Desenvolvedor de Sistemas</h3>
 
 - 🌱 Atualmente estou aprendendo **desenvolvimento front-end;**
