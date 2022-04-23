@@ -5,7 +5,7 @@
 
 - 📫 Como entrar em contato comigo: **vic.hugx@gmail.com**
 
-- ⚡ Fun fact: **Amo jogar League of Legends;**
+- ⚡ Fun fact: **Jogo League of Legends;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
