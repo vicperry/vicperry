@@ -8,5 +8,3 @@
 - 📫 Como entrar em contato comigo: **vic.hugx@gmail.com**
 
 - ⚡ Fun fact: **sou suporte no League of Legends;**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicperry&show_icons=true&locale=en&layout=compact" alt="vicperry" /></p>
