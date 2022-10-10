@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, me chamo Victor Pereira!</h1>
-<h3 align="center">Estudante de Engenharia da Computação</h3>
+<h3 align="center">Desenvolvedor Web</h3>
 
-- 🌱 Atualmente estou aprendendo **Ciência de Dados com Python;**
+- 🌱 Atualmente estou aprendendo **Java;**
 
-- 📄 Tenho experiência com: desenvolvimento Android com Kotlin, back-end com Java e front-end com Vue/React;
+- 📄 Tenho experiência com: desenvolvimento Android com Kotlin e front-end com Vue e React;
 
 - 📫 Como entrar em contato comigo: **vic.hugx@gmail.com**;
 
