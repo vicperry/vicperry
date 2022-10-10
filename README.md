@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java;**
 
-- 📄 Tenho experiência com: desenvolvimento Android com Kotlin e front-end com Vue e React;
+- 📄 Tenho experiência com: desenvolvimento Android com Kotlin, Análise de Dados com Python e Front-end com Vue e React;
 
 - 📫 Como entrar em contato comigo: **vic.hugx@gmail.com**;
 
