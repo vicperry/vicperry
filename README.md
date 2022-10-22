@@ -1,10 +1,5 @@
 <h1 align="center">👋 Olá, me chamo Victor Pereira!</h1>
-<h3 align="center">Desenvolvedor Web</h3>
+<h3 align="center">Engenheiro de Front-end</h3>
 
-- 🌱 Atualmente estou aprendendo **Java;**
-
-- 📄 Tenho experiência com: desenvolvimento Android com Kotlin, Análise de Dados com Python e Front-end com Vue e React;
-
-- 📫 Como entrar em contato comigo: **vic.hugx@gmail.com**;
-
-- ⚡ Fun fact: **sou suporte no League of Legends;**
+- Graduando em Engenharia de Software, apaixonado por tecnologia e especialista en <strong> desenvolvimento front-end </strong>.
+- Entre em contato por vic.hugx@gmail.com
