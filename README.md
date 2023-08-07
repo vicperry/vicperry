@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, me chamo Victor Pereira!</h1>
 
-- Graduando em Engenharia de Software, especialista em <strong> desenvolvimento front-end </strong> com React.
+- Sou técnico em Informática para Internet, pelo IFRJ.
 
-- Outras stacks que já estudei: Ciência de Dados, Desenvolvimento Android Nativo e Back-end com Java.
+- Atuo com <strong>desenvolvimento Java</strong> na Força Aérea Brasileira.
 
 - Entre em contato por vic.hugx@gmail.com
