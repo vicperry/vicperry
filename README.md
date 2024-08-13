@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Victor Pereira!</h1>
 
 <p align="center">
-  <strong>Web Developer</strong>
+  <strong>Java/Web Developer</strong>
 </p>
 
 - 🎓 Graduated in Web Development from the Federal Institute of Rio de Janeiro
