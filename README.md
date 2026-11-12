@@ -1,12 +1,46 @@
 <h1 align="center">👋 Hi, I'm Victor Pereira!</h1>
 
 <p align="center">
-  <strong>Web Developer</strong>
+  <strong>Software Engineer | Java & Vue.js Developer</strong>
 </p>
 
-- 🎓 Graduated in Web Development from the Federal Institute of Rio de Janeiro
-- 📚 Currently studying Data Science and AI
-- 💼 Working with <strong>Vue.js</strong> and <strong>Java</strong> development at the UFRJ
+<p align="center">
+  <a href="mailto:vic.hugx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitrugo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-### 🚀 Get in Touch
-- 📧 Email: [vic.hugx@gmail.com](mailto:vic.hugx@gmail.com)
+---
+
+### 👨‍💻 About Me
+
+- 💼 Working as a Software Developer with **Vue.js** and **Java** at **UFRJ** (Federal University of Rio de Janeiro)
+- ✈️ Previously developed software systems for the **Brazilian Air Force (FAB)**
+- 🎓 B.S. in Information Systems / Systems Engineering at **Centro Universitário UniFatecie**
+- 🧠 Postgraduate Specialization in **Artificial Intelligence and Data Science**
+- 🌱 Exploring modern web architectures, legacy system modernization, and applied AI
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,vue,js,ts,html,css,postgres,mysql,docker,git,linux" alt="Tech Stack" />
+</p>
+
+- **Backend:** Java, Spring Boot, Python, RESTful APIs
+- **Frontend:** Vue.js, JavaScript, TypeScript, HTML5, CSS3
+- **Database:** SQL (PostgreSQL / MySQL)
+- **DevOps, Environment & Tools:** Docker, Linux, Git, DBeaver
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vicperry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicperry&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+</p>
