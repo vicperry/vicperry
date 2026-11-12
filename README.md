@@ -19,7 +19,7 @@
 
 - 💼 Working as a Software Developer with **Vue.js** and **Java** at **UFRJ** (Federal University of Rio de Janeiro)
 - ✈️ Previously developed software systems for the **Brazilian Air Force (FAB)**
-- 🎓 B.S. in Information Systems / Systems Engineering at **Centro Universitário UniFatecie**
+- 🎓 B.S. in Information Systems at **Centro Universitário UniFatecie**
 - 🧠 Postgraduate Specialization in **Artificial Intelligence and Data Science**
 - 🌱 Exploring modern web architectures, legacy system modernization, and applied AI
 
